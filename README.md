@@ -23,7 +23,7 @@ Hello, everyone! 👋 I'm **Akmal Kurbanov**, a **Computer Science Junior** stud
 - **Tools:** Git, GitHub, Jira,  Docker, Postman, Azure, Swagger
 
 ## 🌱 Currently Learning
-- Advanced algorithms and data structures in leetcode with help of Neetcode and Codepath Advanced Technical Interview Prep :feelsgood: 
+- Advanced algorithms and data structures in Leetcode with help of Neetcode and Codepath Advanced Technical Interview Prep :feelsgood: 
 - Preparing for Azure Az 900 Cerification
 - Acing Software Design Patterns, [great resource] (https://refactoring.guru/design-patterns/catalog)
 
