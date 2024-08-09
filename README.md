@@ -28,5 +28,5 @@ Hello, everyone! 👋 I'm **Akmal Kurbanov**, a **Computer Science Junior** stud
 - Acing Software Design Patterns, [great resource] (https://refactoring.guru/design-patterns/catalog)
 
 ## 📫 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/akmal-kurbanov)
+- [LinkedIn](https://www.linkedin.com/in/akmal-kurbanov-a51a70201/)
 - [Email](mailto:akmaltampa@gmail.com)
