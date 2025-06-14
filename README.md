@@ -9,7 +9,7 @@
 
 <!-- Quick intro -->
 ### About&nbsp;Me
-I’m a **full-stack engineer** with 1 year of real-world, production experience. I love turning stakeholders ideas into actual solutions and am now exploring **new-grad or junior software roles** where I can keep leveling up and delivering value.
+I’m a **full-stack engineer** with ~2.5 years of real-world, production experience. I love turning stakeholders ideas into actual solutions and am now exploring **new-grad or junior software roles** where I can keep leveling up and delivering value.
 
 
 - **Graduating:** B.S. Computer Science, University of South Florida — **Dec 2025** (GPA 3.8)  
