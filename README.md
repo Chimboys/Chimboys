@@ -13,7 +13,7 @@ I’m a **full-stack engineer** with ~1.5 years of real-world, production experi
 
 
 - **Graduating:** B.S. Computer Science, University of South Florida — **Dec 2025** (GPA 3.8)  
-- **Current:** Team Lead for a 3-dev squad maintaining a USF Honors platform used by 2.5 K+ students & staff  
+- **Current:** Team Lead for a 5-dev squad maintaining a USF Honors platform used by 2.5 K+ students & staff  
 - **Internship:** Modernized legacy ASP.NET MVC code at **Eyefinity (VSP Vision)**  
 - **Interests:** Domain-driven design, clean APIs, cloud infrastructure, and mentoring peers  
 - **Learning Now:** End-to-end CI/CD on Kubernetes and automated observability for zero-downtime releases
